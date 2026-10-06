@@ -75,3 +75,4 @@ The infrastructure will include:
                                         │
                                         ▼
                                       EC2
+```
